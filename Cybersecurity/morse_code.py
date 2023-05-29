@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+# This script is in the cybersecurity section because Morse code
+# is often used in cybersecurity CTFs. I wrote this script so I could
+# practice Python while creating something useful for the next CTF
+# that utilizes Morse code. Additionally, Morse code is even used in
+# some Escape Rooms that I enjoy playing.
+
 import sys
 
 MORSE_CODE = {
